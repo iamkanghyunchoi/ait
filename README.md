@@ -1,4 +1,4 @@
-# It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher
+# It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher [CVPR 2022 Oral]
 
 This folder contains the official implementation of paper [It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher] on [GDFQ](https://arxiv.org/abs/2003.03603), [Qimera](https://arxiv.org/abs/2111.02625), [AutoReCon](https://arxiv.org/pdf/2105.12151.pdf) framework.
 
