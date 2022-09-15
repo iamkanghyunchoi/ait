@@ -15,7 +15,7 @@ batchSize = 16  # batchsize
 momentum = 0.9  # momentum 0.9
 weightDecay = 0.0
 opt_type = "SGD"
-warmup_epochs = 0# 50 # number of epochs for warmup
+warmup_epochs = 50 # number of epochs for warmup
 
 lr_S = 0.0001
 lrPolicy_S = "multi_step"  # options: multi_step | linear | exp | const | step
